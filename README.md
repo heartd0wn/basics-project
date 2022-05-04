@@ -1,3 +1,3 @@
 # basics-project
 test
-https://www.markdownguide.org/cheat-sheet  -- markdown file
+https://www.markdownguide.org/cheat-sheet  --> markdown file
